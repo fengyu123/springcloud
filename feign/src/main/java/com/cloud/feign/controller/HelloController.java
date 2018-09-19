@@ -18,6 +18,7 @@ public class HelloController {
     public String sayHello(String name){
         helloService.sayHelloTest();
         System.out.println("---------------------------");
+        System.out.println(123);
         return helloService.sayHello()+""+name;
     }
 
