@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudDemo.iml" filepath="$PROJECT_DIR$/cloudDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enreka/enreka.iml" filepath="$PROJECT_DIR$/enreka/enreka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign/feign.iml" filepath="$PROJECT_DIR$/feign/feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon/ribbon.iml" filepath="$PROJECT_DIR$/ribbon/ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ribbonConsumber/ribbonConsumber.iml" filepath="$PROJECT_DIR$/ribbonConsumber/ribbonConsumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ribbonConsumer/ribbonConsumer.iml" filepath="$PROJECT_DIR$/../ribbonConsumer/ribbonConsumer.iml" />
+    </modules>
+  </component>
+</project>
