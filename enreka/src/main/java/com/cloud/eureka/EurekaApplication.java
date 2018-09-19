@@ -40,7 +40,7 @@ public class EurekaApplication {
 		System.out.println("                   `=---='                          ");
 		System.out.println("^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^       ");
 		System.out.println("            佛祖保佑       永无BUG                    ");
-		System.out.println("--------------4-------------------------------------------");
+		System.out.println("--------------7-------------------------------------------");
 
 	}
 
